@@ -1,0 +1,39 @@
+DEBUG:root:Creating object from dict {'metabolic_traits': ['AUTO:facultatively%20anaerobic', 'AUTO:catalase%20negative', 'AUTO:oxidase%20negative', 'AUTO:indole%20negative', 'AUTO:aesculin%20hydrolysis%20negative'], 'morphological_traits': ['AUTO:non-motile', 'AUTO:Gram-positive', 'AUTO:coccobacilli', 'PATO:0000587', 'PATO:0000950', 'AUTO:semi-translucent', 'AUTO:low%20convex', 'AUTO:alpha-haemolytic'], 'genetic_traits': ['AUTO:16S%20rRNA%20gene%20%3E99%25%20nucleotide%20identity%20with%20certain%20uncultured%20Actinomycetales%20bacteria', 'AUTO:DNA%20G%2BC%20content%20of%2064%25', 'AUTO:16S%20rRNA%20gene%2094.15%25%20nucleotide%20identity%20with%20S.%20canadense%20WB03_NA08', 'AUTO:orthoANI%2067.81%25%20with%20S.%20canadense%20WB03_NA08'], 'cellular_traits': ['AUTO:non-motile', 'AUTO:Gram-positive', 'AUTO:coccobacilli'], 'ecological_traits': ['AUTO:isolated%20from%20patient%20with%20ruptured%20appendicitis', 'AUTO:isolated%20from%20peritoneal%20swab']}
+INFO:root:{'metabolic_traits': ['AUTO:facultatively%20anaerobic', 'AUTO:catalase%20negative', 'AUTO:oxidase%20negative', 'AUTO:indole%20negative', 'AUTO:aesculin%20hydrolysis%20negative'], 'morphological_traits': ['AUTO:non-motile', 'AUTO:Gram-positive', 'AUTO:coccobacilli', 'PATO:0000587', 'PATO:0000950', 'AUTO:semi-translucent', 'AUTO:low%20convex', 'AUTO:alpha-haemolytic'], 'genetic_traits': ['AUTO:16S%20rRNA%20gene%20%3E99%25%20nucleotide%20identity%20with%20certain%20uncultured%20Actinomycetales%20bacteria', 'AUTO:DNA%20G%2BC%20content%20of%2064%25', 'AUTO:16S%20rRNA%20gene%2094.15%25%20nucleotide%20identity%20with%20S.%20canadense%20WB03_NA08', 'AUTO:orthoANI%2067.81%25%20with%20S.%20canadense%20WB03_NA08'], 'cellular_traits': ['AUTO:non-motile', 'AUTO:Gram-positive', 'AUTO:coccobacilli'], 'ecological_traits': ['AUTO:isolated%20from%20patient%20with%20ruptured%20appendicitis', 'AUTO:isolated%20from%20peritoneal%20swab']}
+    - AUTO:facultatively%20anaerobic
+    - AUTO:catalase%20negative
+    - AUTO:oxidase%20negative
+    - AUTO:indole%20negative
+    - AUTO:aesculin%20hydrolysis%20negative
+    - AUTO:non-motile
+    - AUTO:Gram-positive
+    - AUTO:coccobacilli
+    - AUTO:semi-translucent
+    - AUTO:low%20convex
+    - AUTO:alpha-haemolytic
+    - AUTO:16S%20rRNA%20gene%20%3E99%25%20nucleotide%20identity%20with%20certain%20uncultured%20Actinomycetales%20bacteria
+    - AUTO:DNA%20G%2BC%20content%20of%2064%25
+    - AUTO:16S%20rRNA%20gene%2094.15%25%20nucleotide%20identity%20with%20S.%20canadense%20WB03_NA08
+    - AUTO:orthoANI%2067.81%25%20with%20S.%20canadense%20WB03_NA08
+    - AUTO:non-motile
+    - AUTO:Gram-positive
+    - AUTO:coccobacilli
+    - AUTO:isolated%20from%20patient%20with%20ruptured%20appendicitis
+    - AUTO:isolated%20from%20peritoneal%20swab
+  - id: AUTO:facultatively%20anaerobic
+  - id: AUTO:catalase%20negative
+  - id: AUTO:oxidase%20negative
+  - id: AUTO:indole%20negative
+  - id: AUTO:aesculin%20hydrolysis%20negative
+  - id: AUTO:non-motile
+  - id: AUTO:Gram-positive
+  - id: AUTO:coccobacilli
+  - id: AUTO:semi-translucent
+  - id: AUTO:low%20convex
+  - id: AUTO:alpha-haemolytic
+      AUTO:16S%20rRNA%20gene%20%3E99%25%20nucleotide%20identity%20with%20certain%20uncultured%20Actinomycetales%20bacteria
+  - id: AUTO:DNA%20G%2BC%20content%20of%2064%25
+      AUTO:16S%20rRNA%20gene%2094.15%25%20nucleotide%20identity%20with%20S.%20canadense%20WB03_NA08
+  - id: AUTO:orthoANI%2067.81%25%20with%20S.%20canadense%20WB03_NA08
+  - id: AUTO:isolated%20from%20patient%20with%20ruptured%20appendicitis
+  - id: AUTO:isolated%20from%20peritoneal%20swab
