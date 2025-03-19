@@ -1,0 +1,176 @@
+extracted_object:
+  metabolic_traits:
+    - AUTO:facultatively%20anaerobic
+    - AUTO:negative%20for%20catalase
+    - AUTO:negative%20for%20oxidase
+    - AUTO:negative%20for%20indole
+    - AUTO:negative%20for%20aesculin%20hydrolysis
+    - AUTO:can%20utilize%20d-cellobiose
+    - AUTO:can%20utilize%20d-galactose
+    - AUTO:can%20utilize%20d-glucose
+    - AUTO:can%20utilize%20d-mannose
+    - AUTO:can%20utilize%20d-ribose
+    - AUTO:can%20utilize%20l-arabinose
+    - AUTO:can%20utilize%20d-xylose
+    - AUTO:can%20utilize%20maltotriose
+    - AUTO:cannot%20utilize%20d-maltose
+    - AUTO:cannot%20utilize%20sucrose
+    - AUTO:produces%20urease
+    - AUTO:produces%20cholinesterase
+    - AUTO:produces%20phenylphosphonate%20hydrolase
+    - AUTO:produces%20beta-glucuronidase
+    - AUTO:produces%20alpha-arabinosidase
+    - AUTO:produces%20alpha-l-fucosidase
+    - AUTO:produces%20beta-d-fucosidase
+    - AUTO:produces%20beta-galactosidase
+    - AUTO:produces%20Ala-Phe-Pro-arylamidase
+    - AUTO:produces%20leucine%20arylamidase
+    - AUTO:produces%20l-proline%20arylamidase
+    - AUTO:produces%20phenylalanine%20arylamidase
+    - AUTO:produces%20tyrosine%20arylamidase
+  morphological_traits:
+    - AUTO:Gram-positive%20coccobacilli
+    - AUTO:non-motile
+    - AUTO:cell%20size%20approximately%200.5%E2%80%930.6%20%C2%B5m%20wide%20and%200.7%E2%80%931.0%20%C2%B5m%20long
+    - AUTO:colonies%20small%20%280.5%E2%80%931.0%20mm%29%2C%20grey%2C%20semi-translucent%2C%20low%20convex%2C%20alpha-haemolytic
+  genetic_traits:
+    - AUTO:DNA%20G%2BC%20content%20of%2064%25
+    - AUTO:16S%20rRNA%20gene%20identity%20with%20Scrofimicrobium%20canadense%20WB03_NA08%20of%2094.15%25
+    - AUTO:OrthoANI%20with%20S.%20canadense%20WB03_NA08%20of%2067.81%25
+    - AUTO:dDDH%20range%20of%2019.20%E2%80%9322.30%25
+    - AUTO:POCP%20range%20of%2057.48%E2%80%9360.94%25
+    - AUTO:genome%20size%20of%20approximately%202.22%20Mb
+    - AUTO:2027%20predicted%20genes%20including%201970%20coding%20sequences%20and%2057%20RNAs
+  cellular_traits:
+    - AUTO:%28none%20further%20described%20beyond%20general%20Gram-positive%20coccobacilli%20characteristics%29
+  ecological_traits:
+    - AUTO:clinical%20isolate%20obtained%20from%20the%20peritoneal%20swab%20of%20a%20patient%20with%20ruptured%20appendicitis
+  reproductive_traits:
+    - AUTO:%28none%20mentioned%29
+  survival_traits:
+    - AUTO:%28none%20mentioned%29
+  phenotypic_plasticiticy_traits:
+    - AUTO:%28none%20mentioned%29
+  preferred_environments:
+    - AUTO:human%20peritoneal%20cavity%20%28isolated%20from%20a%20peritoneal%20abscess%29
+named_entities:
+  - id: AUTO:facultatively%20anaerobic
+    label: facultatively anaerobic
+    original_spans:
+      - 2239:2261
+      - 28330:28352
+  - id: AUTO:negative%20for%20catalase
+    label: negative for catalase
+    original_spans:
+      - 2486:2506
+  - id: AUTO:negative%20for%20oxidase
+    label: negative for oxidase
+  - id: AUTO:negative%20for%20indole
+    label: negative for indole
+  - id: AUTO:negative%20for%20aesculin%20hydrolysis
+    label: negative for aesculin hydrolysis
+  - id: AUTO:can%20utilize%20d-cellobiose
+    label: can utilize d-cellobiose
+    original_spans:
+      - 15886:15909
+  - id: AUTO:can%20utilize%20d-galactose
+    label: can utilize d-galactose
+  - id: AUTO:can%20utilize%20d-glucose
+    label: can utilize d-glucose
+  - id: AUTO:can%20utilize%20d-mannose
+    label: can utilize d-mannose
+  - id: AUTO:can%20utilize%20d-ribose
+    label: can utilize d-ribose
+  - id: AUTO:can%20utilize%20l-arabinose
+    label: can utilize l-arabinose
+  - id: AUTO:can%20utilize%20d-xylose
+    label: can utilize d-xylose
+  - id: AUTO:can%20utilize%20maltotriose
+    label: can utilize maltotriose
+  - id: AUTO:cannot%20utilize%20d-maltose
+    label: cannot utilize d-maltose
+    original_spans:
+      - 16103:16126
+  - id: AUTO:cannot%20utilize%20sucrose
+    label: cannot utilize sucrose
+    original_spans:
+      - 16137:16158
+  - id: AUTO:produces%20urease
+    label: produces urease
+    original_spans:
+      - 16257:16271
+      - 28928:28942
+  - id: AUTO:produces%20cholinesterase
+    label: produces cholinesterase
+  - id: AUTO:produces%20phenylphosphonate%20hydrolase
+    label: produces phenylphosphonate hydrolase
+  - id: AUTO:produces%20beta-glucuronidase
+    label: produces beta-glucuronidase
+  - id: AUTO:produces%20alpha-arabinosidase
+    label: produces alpha-arabinosidase
+  - id: AUTO:produces%20alpha-l-fucosidase
+    label: produces alpha-l-fucosidase
+  - id: AUTO:produces%20beta-d-fucosidase
+    label: produces beta-d-fucosidase
+  - id: AUTO:produces%20beta-galactosidase
+    label: produces beta-galactosidase
+  - id: AUTO:produces%20Ala-Phe-Pro-arylamidase
+    label: produces Ala-Phe-Pro-arylamidase
+  - id: AUTO:produces%20leucine%20arylamidase
+    label: produces leucine arylamidase
+  - id: AUTO:produces%20l-proline%20arylamidase
+    label: produces l-proline arylamidase
+  - id: AUTO:produces%20phenylalanine%20arylamidase
+    label: produces phenylalanine arylamidase
+  - id: AUTO:produces%20tyrosine%20arylamidase
+    label: produces tyrosine arylamidase
+  - id: AUTO:Gram-positive%20coccobacilli
+    label: Gram-positive coccobacilli
+    original_spans:
+      - 2276:2301
+      - 5542:5567
+      - 15325:15350
+      - 28367:28392
+  - id: AUTO:non-motile
+    label: non-motile
+    original_spans:
+      - 2264:2273
+      - 5531:5540
+      - 15314:15323
+      - 28355:28364
+  - id: 
+      AUTO:cell%20size%20approximately%200.5%E2%80%930.6%20%C2%B5m%20wide%20and%200.7%E2%80%931.0%20%C2%B5m%20long
+    label: cell size approximately 0.5–0.6 µm wide and 0.7–1.0 µm long
+  - id: 
+      AUTO:colonies%20small%20%280.5%E2%80%931.0%20mm%29%2C%20grey%2C%20semi-translucent%2C%20low%20convex%2C%20alpha-haemolytic
+    label: colonies small (0.5–1.0 mm), grey, semi-translucent, low convex, alpha-haemolytic
+  - id: AUTO:DNA%20G%2BC%20content%20of%2064%25
+    label: DNA G+C content of 64%
+    original_spans:
+      - 2945:2966
+  - id: 
+      AUTO:16S%20rRNA%20gene%20identity%20with%20Scrofimicrobium%20canadense%20WB03_NA08%20of%2094.15%25
+    label: 16S rRNA gene identity with Scrofimicrobium canadense WB03_NA08 of 94.15%
+  - id: AUTO:OrthoANI%20with%20S.%20canadense%20WB03_NA08%20of%2067.81%25
+    label: OrthoANI with S. canadense WB03_NA08 of 67.81%
+  - id: AUTO:dDDH%20range%20of%2019.20%E2%80%9322.30%25
+    label: dDDH range of 19.20–22.30%
+  - id: AUTO:POCP%20range%20of%2057.48%E2%80%9360.94%25
+    label: POCP range of 57.48–60.94%
+  - id: AUTO:genome%20size%20of%20approximately%202.22%20Mb
+    label: genome size of approximately 2.22 Mb
+  - id: 
+      AUTO:2027%20predicted%20genes%20including%201970%20coding%20sequences%20and%2057%20RNAs
+    label: 2027 predicted genes including 1970 coding sequences and 57 RNAs
+  - id: 
+      AUTO:%28none%20further%20described%20beyond%20general%20Gram-positive%20coccobacilli%20characteristics%29
+    label: (none further described beyond general Gram-positive coccobacilli characteristics)
+  - id: 
+      AUTO:clinical%20isolate%20obtained%20from%20the%20peritoneal%20swab%20of%20a%20patient%20with%20ruptured%20appendicitis
+    label: clinical isolate obtained from the peritoneal swab of a patient with ruptured
+      appendicitis
+  - id: AUTO:%28none%20mentioned%29
+    label: (none mentioned)
+  - id: 
+      AUTO:human%20peritoneal%20cavity%20%28isolated%20from%20a%20peritoneal%20abscess%29
+    label: human peritoneal cavity (isolated from a peritoneal abscess)
