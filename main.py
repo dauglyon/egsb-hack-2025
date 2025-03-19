@@ -5,7 +5,7 @@ from langchain.chat_models import init_chat_model
 from langchain_community.document_loaders import PyPDFLoader
 
 ontoGptText = "" 
-with open('./ontoGPTOut/appendicitis_isolate_full_nocite_AUTO_o1.txt') as file: # OntoGPT Output of AUTO: terms
+with open('./ontoGPTOut/PMC4468178_AUTO_o1.txt') as file: # OntoGPT Output of AUTO: terms
     ontoGptText = file.read()
 
 # loader = PyPDFLoader('./papers/ijsem006633.pdf') # Paper these terms were pulled from
@@ -15,7 +15,7 @@ with open('./ontoGPTOut/appendicitis_isolate_full_nocite_AUTO_o1.txt') as file: 
 # inputPaperText = "\n".join(pages)
 
 inputPaperText = "" 
-with open('./papers/appendicitis_isolate_full_nocite.txt') as file: # OntoGPT Output of AUTO: terms
+with open('./papers/PMC4468178.full.txt') as file: # OntoGPT Output of AUTO: terms
     inputPaperText = file.read()
 
 summaryPrompt = f"""
@@ -48,8 +48,8 @@ def main():
         os.environ["ANTHROPIC_API_KEY"] = getpass.getpass("Enter API key for Anthropic: ")
     model = init_chat_model("claude-3-5-sonnet-latest", model_provider="anthropic")
     out = model.invoke(summaryPrompt).text()
-    print(out)
-    print("\n".join([str((term, "MISSING")) for term in re.findall("<.+?>", out) if ontoGptText.find(term.strip('<>'))==-1]))
+    with open('./out/PMC4468178.txt', "w") as outfile:
+        outfile.write(out)
 
 if __name__ == "__main__":
     main()
