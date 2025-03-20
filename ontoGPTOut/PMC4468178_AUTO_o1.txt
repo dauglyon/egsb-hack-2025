@@ -1,0 +1,119 @@
+extracted_object:
+  metabolic_traits:
+    - AUTO:nitrogen%20fixation
+    - AUTO:trehalose%20biosynthesis%20for%20osmotolerance
+    - AUTO:rhizobitoxine%20biosynthesis
+    - AUTO:cbb3-type%20terminal%20oxidase%E2%80%93based%20respiration
+    - AUTO:broad%20metabolic%20adaptation%20to%20multiple%20C%2C%20N%2C%20P%2C%20and%20S%20sources%20%28e.g.%2C%202-deoxy-D-ribose%2C%20cUMP%2C%20l-methionine%20sulfoxide%29
+    - AUTO:capacity%20for%20chemical%20degradation
+  morphological_traits:
+    - AUTO:production%20of%20capsular%20polysaccharide%20%28ExpR-proficient%2C%20mucoid%29
+    - AUTO:presence%20of%20flagella%20%28though%20flagellar%20genes%20are%20downregulated%20compared%20to%20Rm1021%29
+  genetic_traits:
+    - AUTO:possession%20of%20an%20accessory%20plasmid%20%28repABC%20replicon%20family%29
+    - AUTO:plasmid%20mobilization%20genes%20%28traG%2C%20VirB9-like%29
+    - AUTO:intact%20expR%20allele
+    - AUTO:large%20deletions/variations%20in%20pSymA%20relative%20to%20Rm1021
+    - AUTO:presence%20of%20novel%20divergent/orphan%20genes%20not%20in%20Rm1021
+  cellular_traits:
+    - AUTO:ability%20to%20modulate%20flagellum-based%20motility
+    - AUTO:exopolysaccharide%20synthesis%20under%20ExpR%20regulation
+    - AUTO:fixNOQP%20cbb3-oxidase%20for%20microaerobic%20respiration
+  ecological_traits:
+    - AUTO:symbiotic%20association%20with%20Medicago%20spp.%20%28forms%20nodules%29
+    - AUTO:thrives%20in%20saline%2C%20drought-affected%2C%20and%20polluted%20soils
+  reproductive_traits:
+    - AUTO:capacity%20for%20conjugative%20plasmid%20transfer%20%28traG%2C%20VirB9-like%20system%29
+  survival_traits:
+    - AUTO:salt%20tolerance
+    - AUTO:drought%20tolerance
+    - AUTO:growth%20at%20high%20pH%20%2810%29%20and%20in%205%25%20KCl
+    - AUTO:tolerance%20to%20multiple%20antibiotics%2C%20fungicides%2C%20and%20xenobiotics
+  phenotypic_plasticiticy_traits:
+    - AUTO:ability%20to%20alter%20expression%20of%20flagellum/chemotaxis%20genes%2C%20phosphate-uptake%20genes%2C%20and%20cbb3%20oxidase%20genes%20in%20response%20to%20environmental%20conditions
+    - AUTO:greater%20substrate-use%20versatility%20under%20stress
+  preferred_environments:
+    - AUTO:saline%20soils
+    - AUTO:drought-affected%20soils
+    - AUTO:chemically%20contaminated%20and%20polluted%20soils%20of%20the%20North%20Aral%20Sea%20Region
+named_entities:
+  - id: AUTO:nitrogen%20fixation
+    label: nitrogen fixation
+    original_spans:
+      - 16497:16513
+      - 28706:28722
+      - 30869:30885
+      - 37352:37368
+  - id: AUTO:trehalose%20biosynthesis%20for%20osmotolerance
+    label: trehalose biosynthesis for osmotolerance
+  - id: AUTO:rhizobitoxine%20biosynthesis
+    label: rhizobitoxine biosynthesis
+    original_spans:
+      - 33945:33970
+  - id: AUTO:cbb3-type%20terminal%20oxidase%E2%80%93based%20respiration
+    label: cbb3-type terminal oxidase–based respiration
+  - id: 
+      AUTO:broad%20metabolic%20adaptation%20to%20multiple%20C%2C%20N%2C%20P%2C%20and%20S%20sources%20%28e.g.%2C%202-deoxy-D-ribose%2C%20cUMP%2C%20l-methionine%20sulfoxide%29
+    label: broad metabolic adaptation to multiple C, N, P, and S sources (e.g., 2-deoxy-D-ribose,
+      cUMP, l-methionine sulfoxide)
+  - id: AUTO:capacity%20for%20chemical%20degradation
+    label: capacity for chemical degradation
+  - id: 
+      AUTO:production%20of%20capsular%20polysaccharide%20%28ExpR-proficient%2C%20mucoid%29
+    label: production of capsular polysaccharide (ExpR-proficient, mucoid)
+  - id: 
+      AUTO:presence%20of%20flagella%20%28though%20flagellar%20genes%20are%20downregulated%20compared%20to%20Rm1021%29
+    label: presence of flagella (though flagellar genes are downregulated compared
+      to Rm1021)
+  - id: 
+      AUTO:possession%20of%20an%20accessory%20plasmid%20%28repABC%20replicon%20family%29
+    label: possession of an accessory plasmid (repABC replicon family)
+  - id: AUTO:plasmid%20mobilization%20genes%20%28traG%2C%20VirB9-like%29
+    label: plasmid mobilization genes (traG, VirB9-like)
+  - id: AUTO:intact%20expR%20allele
+    label: intact expR allele
+  - id: AUTO:large%20deletions/variations%20in%20pSymA%20relative%20to%20Rm1021
+    label: large deletions/variations in pSymA relative to Rm1021
+  - id: AUTO:presence%20of%20novel%20divergent/orphan%20genes%20not%20in%20Rm1021
+    label: presence of novel divergent/orphan genes not in Rm1021
+  - id: AUTO:ability%20to%20modulate%20flagellum-based%20motility
+    label: ability to modulate flagellum-based motility
+  - id: AUTO:exopolysaccharide%20synthesis%20under%20ExpR%20regulation
+    label: exopolysaccharide synthesis under ExpR regulation
+  - id: AUTO:fixNOQP%20cbb3-oxidase%20for%20microaerobic%20respiration
+    label: fixNOQP cbb3-oxidase for microaerobic respiration
+  - id: AUTO:symbiotic%20association%20with%20Medicago%20spp.%20%28forms%20nodules%29
+    label: symbiotic association with Medicago spp. (forms nodules)
+  - id: AUTO:thrives%20in%20saline%2C%20drought-affected%2C%20and%20polluted%20soils
+    label: thrives in saline, drought-affected, and polluted soils
+  - id: 
+      AUTO:capacity%20for%20conjugative%20plasmid%20transfer%20%28traG%2C%20VirB9-like%20system%29
+    label: capacity for conjugative plasmid transfer (traG, VirB9-like system)
+  - id: AUTO:salt%20tolerance
+    label: salt tolerance
+    original_spans:
+      - 3849:3862
+      - 4932:4945
+      - 5339:5352
+  - id: AUTO:drought%20tolerance
+    label: drought tolerance
+  - id: AUTO:growth%20at%20high%20pH%20%2810%29%20and%20in%205%25%20KCl
+    label: growth at high pH (10) and in 5% KCl
+  - id: 
+      AUTO:tolerance%20to%20multiple%20antibiotics%2C%20fungicides%2C%20and%20xenobiotics
+    label: tolerance to multiple antibiotics, fungicides, and xenobiotics
+  - id: 
+      AUTO:ability%20to%20alter%20expression%20of%20flagellum/chemotaxis%20genes%2C%20phosphate-uptake%20genes%2C%20and%20cbb3%20oxidase%20genes%20in%20response%20to%20environmental%20conditions
+    label: ability to alter expression of flagellum/chemotaxis genes, phosphate-uptake
+      genes, and cbb3 oxidase genes in response to environmental conditions
+  - id: AUTO:greater%20substrate-use%20versatility%20under%20stress
+    label: greater substrate-use versatility under stress
+  - id: AUTO:saline%20soils
+    label: saline soils
+    original_spans:
+      - 35766:35777
+  - id: AUTO:drought-affected%20soils
+    label: drought-affected soils
+  - id: 
+      AUTO:chemically%20contaminated%20and%20polluted%20soils%20of%20the%20North%20Aral%20Sea%20Region
+    label: chemically contaminated and polluted soils of the North Aral Sea Region

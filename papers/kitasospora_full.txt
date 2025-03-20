@@ -1,0 +1,156 @@
+ RESEARCH ARTICLE
+Li et al., Int. J. Syst. Evol. Microbiol. 2025;75:006717 DOI 10.1099/ijsem.0.006717
+Kitasatospora camelliae sp. nov., isolated from rhizosphere soil of Camellia oleifera
+Kaiqin Li1,2,†, Ying Qian2,†, Jian Gao2 and Wei Liang1,*
+      Abstract
+Strain HUAS MG31T was isolated from the rhizosphere soil of Camellia oleifera collected from Taoyuan County, China. This strain produced white substrate mycelium and hair brown aerial mycelium without diffusible pigment on the Gause’s synthetic No. 1 medium. Aerial mycelia differentiated into rectiflexible spore chains consisting of spherical or cylindrical spores with smooth surfaces. Cell wall peptidoglycan of strain HUAS MG31T contained meso-diaminopimelic acid, and whole-cell sugars were galactose and mannose. The menaquinones of strain HUAS MG31T were MK-9(H ), MK-9(H ) and MK-9(H ). The major cellular
+684
+fatty acids consisted of Summed Feature 9 (iso-C17:1 ω9c/10-methyl C16:0), iso-C16:0, iso-C15:0, anteiso-C15:0, iso-C17:0, anteiso-C17:0,
+Summed Feature 3 (iso H-C16:1 /C16:1 ω6c) and cyclo C17:0. Sequence analysis based on the full-length 16S rRNA gene of strain HUAS MG31T showed that it shared highest sequence similarities to Kitasatospora paranensis HKI 0190T (99.5%) and Kitasatos- pora terrestris HKI 0186T (99.4%). The phylogenomic tree shows that strain HUAS MG31T forms an independent subclade, indi- cating that it might belong to a potential novel species. The results from phylogenetic trees based on 16S rRNA gene sequences showed that strain HUAS MG31T was most closely related to K. paranensis HKI 0190T. However, the average nucleotide identity and the digital DNA–DNA hybridization between strain HUAS MG31T and K. paranensis JCM 13005T were 87.0%/81.2% and 25.8%, respectively, below the 95%–96% and 70% threshold that defined a new species. Meanwhile, phenotypic, chemotaxo- nomic characteristics and MALDI-TOF MS results further confirmed that strain HUAS MG31T was significantly different from K. paranensis JCM 13005T. Therefore, these results reveal that strain HUAS MG31T represents a novel species of the genus Kita- satospora, for which the name Kitasatospora camelliae sp. nov. is proposed. The type strain is HUAS MG31T (=MCCC 1K09225T= JCM 37022T).
+INTRODUCTION
+Kitasatospora was established as a new genus of the order Actinomycetales by Omura in 1982 based on its unique cell wall type (type X) [1]. In 1992, Wellington et al. [2] proposed that Kitasatospora should be unified with Streptomyces on the basis of phenotypic and 16S rRNA gene analysis. However, Zhang et al. [3] suggested reviving Kitasatospora as an independent genus in 1997 based on phylogenetic analysis of the 16S-23S ITS sequence. According to the List of Prokaryotic names with Standing in Nomenclature (https://lpsn.dsmz.de/genus/Kitasatospora), as of 18 January 2025, the genus Kitasatospora includes 38 species with a validly published and correct name. All Kitasatospora species (including those with names that have not been validly published) were mainly isolated from various soil samples [4–9], except for a few species that were isolated from special habitats, such as leaves of Cathaya argyrophylla [10] and tubers of yam bean legume [11]. Recently, there is evidence that some Kitasatospora strains exhibited their ability to produce new secondary metabolites with various functions [12, 13]. Thus, the exploration of Kitasatospora species is not only of great significance for the discovery of new bioactive compounds, but also of immense value for understanding the biodiversity and ecological roles of these micro-organisms in their natural habitats [14, 15]. In the past several
+Author affiliations: 1School of Computer Science and Engineering, Hunan University of Science and Technology, Xiangtan, PR China; 2School of Life and Health Sciences, Hunan University of Science and Technology, Xiangtan, PR China.
+*Correspondence: Wei Liang, wliang@hnust.edu.cn
+Keywords: Camellia oleifera; Kitasatospora camelliae; novel species; polyphasic taxonomy.
+Abbreviations: ANI, average nucleotide identity; CDSs, coding sequences; dDDH, digital DNA–DNA hybridization; MCCC, Marine Culture Collection of China; ML, maximum-likelihood; MP, maximum-parsimony; NBRC, NITE Biological Resource Centre; NJ, neighbour-joining; NRPS, non-ribosomal peptide synthetase.
+The GenBank/EMBL/DDBJ accession numbers for the 16S rRNA gene sequence and genome sequence of strain HUAS MG31T are PQ097302 and CP159872.1, respectively.
+†These authors contributed equally to this work
+Four supplementary figures and three supplementary tables are available with the online version of this article.
+ 006717 © 2025 The Authors
+1
+
+Li et al., Int. J. Syst. Evol. Microbiol. 2025;75:006717
+ years, our research group has made great efforts to explore and characterize new Kitasatospora species from different ecological niches. Of the isolates obtained, strain HUAS MG31T, which was isolated from the rhizosphere soils of Camellia oleifera, could belong to a potential new species based on phylogenomic analysis. So, the aim of this work is to determine its taxonomic status by using a polyphasic approach.
+Methods
+Isolation and maintenance
+Rhizosphere soil samples of C. oleifera were collected from Taoyuan County, Hunan Province, China (28° 57′ 13′′ N 111° 26′ 3′′ E). The isolation procedure was as follows: 1 g of soil sample was aseptically transferred into a 50 ml conical flask containing 20 ml of sterile distilled water; then, the flask was securely sealed and homogenized by shaking at 200 r.p.m. for 30 min using an orbital shaker. After allowing the suspension to settle for 10 min at ambient temperature, the supernatant was carefully collected for serial decimal dilutions (10−1 to 10−5) prepared with sterile water. Subsequently, 100μl aliquots from appropriate dilution gradients (typically 10−4 and 10−5) were spread-plated onto Gause’s synthetic agar medium in triplicate. All culture plates were subsequently inverted and incubated at 28 °C in a dark-controlled environment for 10 days prior to microbial enumeration. A single colony of the bacterial cultures was obtained by repetitively streaking on modified Gause’s synthetic agar, as previously described by Mo et al. [16]. Strain HUAS MG31T was purified on agar isolation plates at 28°C for 7days. The purified strain was stored in 30% (wt/v) glycerol at −80 °C. Type strain Kitasatospora paranensis NBRC 101837T was received from the NITE Biological Resource Centre (NBRC, Tsukuba, Japan).
+Phenotypic properties
+Colony morphology was examined on Gause’s synthetic agar medium [17], and the phenotypic characteristics of the strain were determined and compared with the most related type strains. To observe the morphological characteristics of the spore chain and spore surface, strain HUAS MG31T was cultured for 21 days at 28 °C and examined using a light microscope (NE620, Ningbo Yongxin Optics) and a scanning electron microscope (FEI-Quanta 450). Colour determination was done by using colour standards and colour nomenclature [18]. Physio-biochemical features, such as sole carbon and nitrogen source utilization, were tested according to the methods described by Shirling and Gottlieb [19] and Williams et al. [20]. Tolerance to NaCl, growth temperature and pH, starch hydrolysis, gelatin liquefaction and Tweens (20, 40, 60 and 80) decomposition were tested using methods described in the literature [21].
+Chemotaxonomic characterization
+Chemotaxonomic analysis was carried out according to the standard procedures. Fatty acid composition analysis was done by the Marine Culture Collection of China (MCCC) according to the protocol of the Sherlock Microbial Identification System (TSBA version 6.0B) [22], and cells of isolates and reference strains were cultured in Trypticase soy broth liquid medium for 5days (180 r.p.m., 28 °C) and then harvested by centrifugation. The isomer of diaminopimelic acid in the cell wall and the whole-cell sugars were analysed using the method described by Staneck and Roberts [23] and Lechevalier and Lechevalier [24], respectively. Polar lipids and menaquinones were extracted and analysed according to the literature [25].
+16S rRNA gene sequence analysis
+A single colony was used as templates for PCR amplifications of the 16S rRNA gene sequence regions using the universal primers 27F (5′-AGAGTTTGATCMTGGCTCAG-3′) and 1492R (5′-CGG TTACCTTGTTACGACTT-3′). The full-length 16S rRNA gene sequence of strain HUAS MG31T was compared in the EzBioCloud database (www.ezbiocloud.net) [26]. Phylogenetic trees were inferred with the maximum-likelihood (ML) [27], neighbour-joining (NJ) [28] and maximum-parsimony (MP) [29] methods with Kimura’s two-parameter model based on the 16S rRNA gene sequences of strain HUAS MG31T and its related type strains of the genus Kitasatospora.
+Genome sequence features and analysis
+Genomic DNA for whole-genome sequencing of strain HUAS MG31T was extracted using the Ezup Column Bacteria Genomic DNA Purification Kit (Sangon Biotech, China) according to the manufacturer’s instructions. Whole-genome sequencing was carried out using third-generation PacBio sequencing technology by Wuhan Benagen Technology Co., Ltd. (Hubei, China). The genome was assembled using Flye-2.9 software [30]. Minimap2 (v2.15-r905) software was used to align third-generation HiFi reads to the assembled genome and analyse the depth distribution of genome coverage [31]. The rapid annotation, using subsystem technology server version 2.0 [32], was used to analyse the genome of strain HUAS MG31T. The secondary metabolite biosynthetic gene clusters were predicted by antiSMASH version 7.1.0 web servers [33]. The average nucleotide identity (ANI) and digital DNA–DNA hybridization (dDDH) values between the genomes of strain HUAS MG31T and its closest relatives were calculated using the JSpeciesWS online service based on MuMmer (ANIm), blast+ (ANIb) [34] and Formula 2 of the Genome- to-Genome Distance Calculator 2.1 [35], respectively. We analysed the genome quality of type Kitasatospora and Streptomyces
+2
+
+Li et al., Int. J. Syst. Evol. Microbiol. 2025;75:006717
+ strains whose genomes are available in the GenBank database; then, a total number of 35 genomes, whose quality must meet the criteria of completeness and contamination [36], were downloaded from the GenBank database (Table S1, available in the online Supplementary Material). The tree based on genome sequences was reconstructed using the Type (Strain) Genome Server (https://tygs.dsmz.de/) [37] with FastME 2.1.6.1 [38] from GBDP distances.
+MALDI-TOF MS analysis
+MALDI-TOF MS achieves rapid identification of microbial strains by analysing and obtaining ribosomal protein fingerprint maps of microbial strains, comparing and analysing them with known microbial strain protein fingerprint databases [39]. Strain HUAS MG31T and related reference strains were identified by MALDI-TOF MS analysis according to the protocol of the Methods of Cultured Microorganisms Using MALDI-TOF MS (GB/T 33682–2017), carried out by the China Center of Industrial Culture Collection.
+RESULTS AND DISCUSSION
+Morphological, physiological and biochemical features
+Strain HUAS MG31T was isolated from the medium of Gause’s synthetic No. 1 at 28 °C for 5 days. The strain grew well on all tested media (including Gause’s synthetic No. 1, Reasoner’2 A and ISP 2–7 media). Mouse grey diffusible pigment was produced on ISP 6 medium (Table S2). This strain produced white substrate mycelium and hair brown aerial mycelium without diffusible pigment on the Gause’s synthetic No. 1 medium. Aerial mycelia differentiated into rectiflexible spore chains consisting of spherical or cylindrical spores with smooth surfaces (Fig. 1). Growth was observed at 10–40 °C (optimum 28 °C), NaCl up to 3.0% (wt/v) (optimum 1.0%) and pH 6.0–8.0 (optimum 7.0). Strain HUAS MG31T was positive for starch hydrolysis and negative for gelatin liquefaction and decomposition of Tweens (20, 40, 60 and 80). The other characteristics are presented in the species description and in Table 1.
+Chemotaxonomic characteristics
+The cell wall peptidoglycan of strain HUAS MG31T contained meso-diaminopimelic acid, and the whole-cell sugars were galac- tose and mannose. The polar lipids of strain HUAS MG31T consisted of diphosphatidylglycerol, phosphatidylethanolamine and phosphatidylinositolmannosides (Fig. 1). The menaquinones of strain HUAS MG31T were MK-9(H6) (55.9%), MK-9(H8) (40.7%) and MK-9(H4) (2.1%). The major cellular fatty acids (>5.0%) consisted of Summed Feature 9 (iso-C17:1 ω9c/10-methyl C16:0) (14.7%), iso-C16:0 (14.5%), iso-C15:0 (10.7%), anteiso-C15:0 (9.5%), iso-C17:0 (8.6%), anteiso-C17:0 (8.1%), Summed Feature 3 (iso H-C16:1 /C16:1 ω6c) (7.1%) and cyclo C17:0 (6.3%) (Table S3).
+Fig. 1. Light microscope (100×40) (a) and scanning electron microscope (b) images of stain HUAS MG31T were observed after incubation on Gause’s synthetic No. 1 medium for 21 days at 28 °C.
+    3
+
+Table 1. Differential characteristics of strain HUAS MG31T and K. paranensis NBRC 101837T Characteristic
+Decomposition of Tweens 40
+Growth at/in:
+Temperature (°C) NaCl (%, wt/v) pH
+Carbon source utilization (1.0%, wt/v) d-Cellobiose
+d-Galactose
+d-Mannose
+d-Xylose l-Arabinose Maltose
+Nitrogen source utilization (1.0%, wt/v) Glycine
+l-Histidine l-Ornithine
+1
+–
+10–40 (28) 0–3.0 (1.0)
+2
++
+10–37 (28)
+0–4.0 (1.5) 6.0–9.0 (7.0)
+– – – + + –
++ + –
+Li et al., Int. J. Syst. Evol. Microbiol. 2025;75:006717
+       Note: 1, HUAS MG31T; 2, K. paranensis NBRC 101837T. –, negative; +, positive. Both strains were positive for hydrolysis of starch, but negative for gelatin liquefaction and decomposition of Tweens (20, 60 and 80). Strains both utilized inositol and d-glucose as sole carbon sources, but not α-lactose, d-ribose, l-rhamnose, and sucrose. l-Alanine, l-arginine, l-asparagine, l-cysteine, l-glutamine, l-hydroxyprolie, l-leucine, l- methionine, l-phenylalanine, l-proline, l-serine, l-valine and l-tyrosine were utilized as sole nitrogen sources.
+Genomic analysis
+The genome size and the genomic DNA G+C content of strain HUAS MG31T are 7,824,202 bp and 73.6%, respectively. A total of 7,310 genes (7,006 coding genes, 103 RNA genes and 201 pseudo genes), 7,207 coding sequences (CDSs) (7,006 CDSs with protein and 201 CDSs without protein) were predicted. The antiSMASH secondary metabolite biosynthetic gene clusters prediction of strain HUAS MG31T showed 23 gene clusters. The 11 main biosynthetic gene clusters were terpene, lanthipeptide-class-III, non-ribosomal peptide synthetase (NRPS)-like, type 1 polyketide synthase, lanthipeptide-class IV, linear azol(in)e-containing peptides, NI-siderophore, NRPS, RiPP-like, type II PKS and type III PKS. Genome analysis of strain HUAS MG31T using the RAST web service has indicated 7,596 CDSs encoding for proteins and 303 subsystems. ‘Amino Acids and Derivatives’ (378 CDSs), ‘Carbohydrates’ (299 CDSs), ‘Protein Metabolism’ (246 CDSs), ‘Cofactors, Vitamins, Prosthetic Groups, Pigments’ (188 CDSs), ‘Fatty Acids, Lipids, and Isoprenoids’ (137 CDSs), ‘Respiration’ (118 CDSs), ‘Nucleosides and Nucleotides’ (99 CDSs), ‘DNA Metabolism’ (80 CDSs), ‘RNA Metabolism’ (56 CDSs), ‘Virulence, Disease and Defence’ (48 CDSs), ‘Stress Response’ (42 CDSs), ‘Cell Wall and Capsule’ (38 CDSs), ‘Miscellaneous’ (32 CDSs), ‘Membrane Transport’ (30 CDSs), ‘Phosphorus Metabolism’ (25 CDSs), ‘Nitrogen Metabolism’ (23 CDSs), ‘Metabolism of Aromatic Compounds’ (22 CDSs), ‘Regulation and Cell Signalling’ (19 CDSs), ‘Potassium Metabolism’ (16 CDSs), ‘Secondary Metabolism’ (9 CDSs), ‘Iron Acquisition and Metabolism’ (9 CDSs), ‘Dormancy and Sporulation’ (9 CDSs), ‘Sulphur Metabolism’ (8 CDSs) and ‘Phages, Prophages, Transposable Elements, Plasmids’ (3 CDSs) were detected.
+Phylogeny and DNA–DNA correlation analysis
+EzBioCloud results of 16S rRNA gene sequences showed that strain HUAS MG31T shared the highest similarity to K. paranensis HKI 0190T (99.5%), followed by K. terrestris HKI 0186T (99.4%), Kitasatospora saccharophila SK15T (98.9%), Kitasatospora cystarginea JCM 7356T (98.8%), Streptomyces lactacystinicus OM-6519T (98.8%), Kitasatospora atroaurantiaca NRRL B-24282T (98.8%), Kitasatospora aburaviensis NRRL B-2218T (98.8%), Kitasatospora kifunensis IFO 15206T (98.7%), Kitasatospora xantho- cidica NBRC 13469T (98.7%), Kitasatospora albolonga JCM 4716T (98.7%), Kitasatospora arboriphila HKI 0189T (98.7%) and the others less than 98.7%. The ML phylogenetic tree showed that strain HUAS MG31T was the most closely related to K. paranensis HKI 0190T (Fig. 2), and was supported by NJ and MP phylogenetic trees (Figs 2 and 3). The phylogenetic tree based on genome sequences indicated that strain HUAS MG31T formed an independent subclade (Fig. 3), suggesting that strain HUAS MG31T
+6.0–8.0
++ + + – – +
+– – +
+(7.0)
+    4
+
+ Li et al., Int. J. Syst. Evol. Microbiol. 2025;75:006717
+Fig. 2. ML phylogenetic tree based on 16S rRNA gene sequences (1,390 bp) showing the relationship between selected species of the genus Kitasatospora and Streptomyces (16S rRNA gene sequence similarity). Leifsonia aquatica ATCC 14665T was used as an out-group. Bootstrap percentages over 50% (derived from 1,000 bootstrap replications) are shown at the nodes. The bar represents 0.01 nucleotide substitutions per site. Dots indicate branches also recovered in the NJ and MP trees.
+could belong to a potential novel species. ANIm/ANIb and dDDH values between strain HUAS MG31T and K. paranensis JCM 13005T were 87.0%/81.2% and 25.8%, respectively, below the 95%–96% and 70% thresholds that define a new species [40, 41]. Phenotypic, chemotaxonomic and MALDI-TOF MS results further confirmed that strain HUAS MG31T was significantly different from K. paranensis JCM 13005T (Tables 2, S1 and S2, Fig. S4). For example, strain HUAS MG31T formed a hydrangea pink aerial mycelium and benzo brown substrate mycelium on ISP 4 medium, while K. paranensis NBRC 101837T developed a pallid mouse
+5
+
+   
+           
+                                                                                                                                                              
+     
+       
+      
+      
+     
+   
+       
+   
+   
+                                                                                                                                                                        
+                                                                                                                                                                  
+                                                                                                                                                                                                                         
+                                                                                                                                                      
+                                                                                                                                                                                                                      
+      
+                                                                                                
+       
+           
+                                                                                                                 
+       
+                                                                                                                 
+   
+                                                                                                            
+   
+Li et al., Int. J. Syst. Evol. Microbiol. 2025;75:006717
+                                                     
+                                                                                                             
+                                                                                                            
+                                                                                                           
+                                                
+Fig. 3. Phylogenetic tree based on whole-genome sequences of strain HUAS MG31T and related reference strains. The branch lengths are scaled in terms of GBDP distance formula d5. The numbers above branches are GBDP pseudo-bootstrap support values >60% from 100 replications, with an average branch support of 96.0%. The tree was rooted at the midpoint [43].
+grey aerial mycelium and white substrate mycelium. Strain HUAS MG31T could utilize d-cellobiose, d-galactose, d-mannose, d-glucose and maltose as sole carbon sources, but strain K. paranensis NBRC 101837T could not. Furthermore, considering that strain HUAS MG31T shared ≥98.7% 16S rRNA gene sequence similarity to type strains, K. terrestris HKI 0186T, K. saccharophila SK15T, K. cystarginea JCM 7356T, S. lactacystinicus OM-6519T, K. atroaurantiaca NRRL B-24282T, K. aburaviensis NRRL B-2218T, K. kifunensis IFO 15206T, K. xanthocidica NBRC 13469T, K. albolonga JCM 4716T, K. arboriphila HKI 0189T, ANI and dDDH values between strain HUAS MG31T and them should be calculated to assess their genomic DNA–DNA relationship [42]. Results demonstrated that the ANIm/b and dDDH values between strain HUAS MG31T and the above-mentioned type strains were 87.3%/82.2%–86.3%/78.9% and 27.0%–24.2% (Table 1) [40, 41], respectively, far below the 95%–96% and 70% thresholds that define a new species.
+Therefore, all these results revealed that strain HUAS MG31T represented a novel species of the genus Kitasatospora, for which the name Kitasatospora camelliae sp. nov. is proposed.
+Description of Kitasatospora camelliae sp. nov
+Kitasatospora camelliae (ca.mel' li.ae. N.L. gen. n. camelliae, of Camellia, referring to the isolation of the type strain from Camellia
+oleifera).
+Grows well on all tested media (Gause’s synthetic No. 1, Reasoner’s 2A and ISP media 2–7). A mouse grey diffusible pigment is
+produced on ISP 6 medium. Produces a white substrate mycelium and hair brown aerial mycelium on Gause’s synthetic medium
+6
+                                               
+                                    
+             
+   
+Li et al., Int. J. Syst. Evol. Microbiol. 2025;75:006717
+ Table 2. Comparative genotypic analysis between strain HUAS MG31T and K. paranensis JCM 13005T, K. terrestris JCM 13006T, K. saccharophila JCM 14559T, K. cystarginea JCM 7356T, S. lactacystinicus JCM 10101T, K. atroaurantiaca DSM 41649T, K. aburaviensis JCM 4613T, K. kifunensis DSM 41654T, K. xanthocidica JCM 4862T, K. albolonga JCM 4716T and K. arboriphila JCM 13002T
+ Closest related species
+K. paranensis JCM 13005T
+K. terrestris JCM 13006T
+K. saccharophila JCM 14559T K. cystarginea JCM 7356T
+S. lactacystinicus JCM 10101T K. atroaurantiaca DSM 41649T K. aburaviensis JCM 4613T
+K. kifunensis DSM 41654T
+K. xanthocidica JCM 4862T
+K. albolonga JCM 4716T
+K. arboriphila JCM 13002T
+Strain HUAS MG31T
+      16S rRNA gene sequence similarity (%)
+99.5 99.4 98.9 98.8 98.8 98.8 98.8 98.7 98.7 98.7 98.7
+ANIm (%)
+87.0 87.3 86.8 86.8 86.8 86.7 86.9 86.3 86.8 86.6 87.2
+ANIb (%)
+81.2 82.2 80.3 80.4 80.2 81.2 81.0 78.9 80.2 80.3 81.8
+dDDH (%)
+25.8 27.0 25.3 25.5 24.8 26.1 25.3 24.2 24.8 25.1 26.3
+      No. 1. Aerial hyphae form Rectiflexibiles spore chains consisting of spherical or cylindrical spores with smooth surfaces. Growth occurs at 10–40 °C (optimum 28 °C), NaCl up to 3.0% (wt/v) (optimum 1.0%) and pH 6.0–8.0 (optimum 7.0). Positive for starch hydrolysis and negative for gelatin liquefaction and decomposition of Tweens (20, 40, 60 and 80). d-Cellobiose, d-galactose, d-mannose, d-glucose, inositol and maltose can be used as sole carbon sources, but not α-lactose, d-ribose, d-xylose, l-arabinose, l-rhamnose and sucrose. l-Alanine, l-arginine, l-asparagine, l-cysteine, l-glutamine, l-hydroxyproline, l-leucine, l-ethionine, l-ornithine, l-phenylalanine, l-proline, l-serine, l-valine and l-tyrosine can be used as sole nitrogen sources, but glycine and l-histidine cannot. Cell wall peptidoglycan contains meso-diaminopimelic acid as a diagnostic amino acid, and whole-cell sugars are galactose and mannose. The polar lipids consist of diphosphatidylglycerol, phosphatidylethanolamine and phosphati- dylinositolmannosides. The major menaquinones are MK-9(H6) and MK-9(H8). The major cellular fatty acids (>5.0%) consist of Summed Feature 9 (iso-C17:1 ω9c/10-methyl C16:0), iso-C16:0, iso-C15:0, anteiso-C15:0, iso-C17:0, anteiso-C17:0, Summed Feature 3 (iso H-C16:1 /C16:1 ω6c) and cyclo C17:0.
+Type strain HUAS MG31T (=MCCC 1K09225T= JCM 37022T) was isolated from rhizosphere soil of C. oleifera collected from Taoyuan County, Hunan Province, China. The type strain has a DNA G+C content of 73.6%. The GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence is PQ097302. The whole genome shotgun sequencing project of the type strain has been deposited at DDBJ/ENA/GenBank under the accession number CP159872.1.
+Funding information
+This work was supported by the National Natural Science Foundation of China (62472168).
+Acknowledgements
+All authors would like to thank the Marine Culture Collection of China (MCCC) and the China Center of Industrial Culture Collection (CICC) for providing us with excellent technical assistance.

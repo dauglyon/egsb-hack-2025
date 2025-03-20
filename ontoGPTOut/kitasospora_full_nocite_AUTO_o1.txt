@@ -1,0 +1,111 @@
+extracted_object:
+  metabolic_traits:
+    - AUTO:positive%20for%20starch%20hydrolysis
+    - AUTO:negative%20for%20gelatin%20liquefaction
+    - AUTO:negative%20for%20Tween%20%2820%2C%2040%2C%2060%2C%2080%29%20decomposition
+    - AUTO:able%20to%20utilize%20d-cellobiose%2C%20d-galactose%2C%20d-mannose%2C%20d-glucose%2C%20inositol%2C%20and%20maltose%20as%20sole%20carbon%20sources
+    - AUTO:unable%20to%20utilize%20%CE%B1-lactose%2C%20d-ribose%2C%20d-xylose%2C%20l-arabinose%2C%20l-rhamnose%2C%20or%20sucrose
+  morphological_traits:
+    - AUTO:produces%20white%20substrate%20mycelium%20and%20hair%20brown%20aerial%20mycelium
+    - AUTO:aerial%20hyphae%20form%20rectiflexible%20spore%20chains%20consisting%20of%20spherical%20or%20cylindrical%20spores%20with%20smooth%20surfaces
+  genetic_traits:
+    - AUTO:16S%20rRNA%20gene%20shows%2099.5%25%20similarity%20to%20K.%20paranensis
+    - AUTO:genome%20G%2BC%20content%20is%2073.6%25
+    - AUTO:genome%20encodes%20multiple%20secondary%20metabolite%20biosynthetic%20gene%20clusters%20%28including%20type%20I%2C%20II%2C%20and%20III%20PKS%20and%20NRPS%29
+  cellular_traits:
+    - AUTO:cell%20wall%20peptidoglycan%20contains%20meso-diaminopimelic%20acid
+    - AUTO:whole-cell%20sugars%20are%20galactose%20and%20mannose
+    - AUTO:major%20fatty%20acids%20include%20iso-C16%3A0%2C%20iso-C15%3A0%2C%20anteiso-C15%3A0%2C%20iso-C17%3A0%2C%20anteiso-C17%3A0%2C%20summed%20feature%209%20%28iso-C17%3A1%20%CF%899c/10-methyl%20C16%3A0%29%2C%20summed%20feature%203%20%28iso%20H-C16%3A1/C16%3A1%20%CF%896c%29%2C%20and%20cyclo%20C17%3A0
+    - AUTO:polar%20lipids%20include%20diphosphatidylglycerol%2C%20phosphatidylethanolamine%2C%20and%20phosphatidylinositolmannosides
+    - AUTO:major%20menaquinones%20are%20MK-9%28H6%29%2C%20MK-9%28H8%29%2C%20and%20MK-9%28H4%29
+  ecological_traits:
+    - AUTO:naturally%20found%20in%20soil%20environments%2C%20specifically%20rhizosphere%20soil%20associated%20with%20Camellia%20oleifera
+  reproductive_traits:
+    - AUTO:reproduces%20via%20formation%20of%20aerial%20mycelia%20that%20differentiate%20into%20rectiflexible%20chains%20of%20spherical%20or%20cylindrical%20spores
+  survival_traits:
+    - AUTO:grows%20between%2010%20%C2%B0C%20and%2040%20%C2%B0C%20%28optimum%2028%20%C2%B0C%29
+    - AUTO:tolerates%20up%20to%203%25%20NaCl%20%28optimum%201%25%29
+    - AUTO:grows%20at%20pH%206.0%E2%80%938.0%20%28optimum%20pH%207.0%29
+  phenotypic_plasticiticy_traits:
+    - AUTO:none%20reported
+  preferred_environments:
+    - AUTO:rhizosphere%20soil%20of%20Camellia%20oleifera
+named_entities:
+  - id: AUTO:positive%20for%20starch%20hydrolysis
+    label: positive for starch hydrolysis
+    original_spans:
+      - 11899:11928
+      - 23502:23531
+  - id: AUTO:negative%20for%20gelatin%20liquefaction
+    label: negative for gelatin liquefaction
+    original_spans:
+      - 11934:11966
+      - 13648:13680
+      - 23537:23569
+  - id: AUTO:negative%20for%20Tween%20%2820%2C%2040%2C%2060%2C%2080%29%20decomposition
+    label: negative for Tween (20, 40, 60, 80) decomposition
+  - id: 
+      AUTO:able%20to%20utilize%20d-cellobiose%2C%20d-galactose%2C%20d-mannose%2C%20d-glucose%2C%20inositol%2C%20and%20maltose%20as%20sole%20carbon%20sources
+    label: able to utilize d-cellobiose, d-galactose, d-mannose, d-glucose, inositol,
+      and maltose as sole carbon sources
+  - id: 
+      AUTO:unable%20to%20utilize%20%CE%B1-lactose%2C%20d-ribose%2C%20d-xylose%2C%20l-arabinose%2C%20l-rhamnose%2C%20or%20sucrose
+    label: unable to utilize α-lactose, d-ribose, d-xylose, l-arabinose, l-rhamnose,
+      or sucrose
+  - id: 
+      AUTO:produces%20white%20substrate%20mycelium%20and%20hair%20brown%20aerial%20mycelium
+    label: produces white substrate mycelium and hair brown aerial mycelium
+  - id: 
+      AUTO:aerial%20hyphae%20form%20rectiflexible%20spore%20chains%20consisting%20of%20spherical%20or%20cylindrical%20spores%20with%20smooth%20surfaces
+    label: aerial hyphae form rectiflexible spore chains consisting of spherical or
+      cylindrical spores with smooth surfaces
+  - id: AUTO:16S%20rRNA%20gene%20shows%2099.5%25%20similarity%20to%20K.%20paranensis
+    label: 16S rRNA gene shows 99.5% similarity to K. paranensis
+  - id: AUTO:genome%20G%2BC%20content%20is%2073.6%25
+    label: genome G+C content is 73.6%
+  - id: 
+      AUTO:genome%20encodes%20multiple%20secondary%20metabolite%20biosynthetic%20gene%20clusters%20%28including%20type%20I%2C%20II%2C%20and%20III%20PKS%20and%20NRPS%29
+    label: genome encodes multiple secondary metabolite biosynthetic gene clusters
+      (including type I, II, and III PKS and NRPS)
+  - id: AUTO:cell%20wall%20peptidoglycan%20contains%20meso-diaminopimelic%20acid
+    label: cell wall peptidoglycan contains meso-diaminopimelic acid
+    original_spans:
+      - 24055:24111
+  - id: AUTO:whole-cell%20sugars%20are%20galactose%20and%20mannose
+    label: whole-cell sugars are galactose and mannose
+    original_spans:
+      - 24145:24187
+  - id: 
+      AUTO:major%20fatty%20acids%20include%20iso-C16%3A0%2C%20iso-C15%3A0%2C%20anteiso-C15%3A0%2C%20iso-C17%3A0%2C%20anteiso-C17%3A0%2C%20summed%20feature%209%20%28iso-C17%3A1%20%CF%899c/10-methyl%20C16%3A0%29%2C%20summed%20feature%203%20%28iso%20H-C16%3A1/C16%3A1%20%CF%896c%29%2C%20and%20cyclo%20C17%3A0
+    label: major fatty acids include iso-C16:0, iso-C15:0, anteiso-C15:0, iso-C17:0,
+      anteiso-C17:0, summed feature 9 (iso-C17:1 ω9c/10-methyl C16:0), summed feature
+      3 (iso H-C16:1/C16:1 ω6c), and cyclo C17:0
+  - id: 
+      AUTO:polar%20lipids%20include%20diphosphatidylglycerol%2C%20phosphatidylethanolamine%2C%20and%20phosphatidylinositolmannosides
+    label: polar lipids include diphosphatidylglycerol, phosphatidylethanolamine,
+      and phosphatidylinositolmannosides
+  - id: 
+      AUTO:major%20menaquinones%20are%20MK-9%28H6%29%2C%20MK-9%28H8%29%2C%20and%20MK-9%28H4%29
+    label: major menaquinones are MK-9(H6), MK-9(H8), and MK-9(H4)
+  - id: 
+      AUTO:naturally%20found%20in%20soil%20environments%2C%20specifically%20rhizosphere%20soil%20associated%20with%20Camellia%20oleifera
+    label: naturally found in soil environments, specifically rhizosphere soil associated
+      with Camellia oleifera
+  - id: 
+      AUTO:reproduces%20via%20formation%20of%20aerial%20mycelia%20that%20differentiate%20into%20rectiflexible%20chains%20of%20spherical%20or%20cylindrical%20spores
+    label: reproduces via formation of aerial mycelia that differentiate into rectiflexible
+      chains of spherical or cylindrical spores
+  - id: 
+      AUTO:grows%20between%2010%20%C2%B0C%20and%2040%20%C2%B0C%20%28optimum%2028%20%C2%B0C%29
+    label: grows between 10 °C and 40 °C (optimum 28 °C)
+  - id: AUTO:tolerates%20up%20to%203%25%20NaCl%20%28optimum%201%25%29
+    label: tolerates up to 3% NaCl (optimum 1%)
+  - id: AUTO:grows%20at%20pH%206.0%E2%80%938.0%20%28optimum%20pH%207.0%29
+    label: grows at pH 6.0–8.0 (optimum pH 7.0)
+  - id: AUTO:none%20reported
+    label: none reported
+  - id: AUTO:rhizosphere%20soil%20of%20Camellia%20oleifera
+    label: rhizosphere soil of Camellia oleifera
+    original_spans:
+      - 150:186
+      - 300:336
